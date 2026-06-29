@@ -16,10 +16,9 @@ Does the type of contract a telecom customer holds (month-to-month vs. longer-te
 
 | File | Description |
 |------|-------------|
-| `mission.ipynb` | Final notebook - fully executed, all outputs visible |
-| `requirements.txt` | Python dependencies |
-| `slides.pdf` | Presentation slides |
-
+| [`mission.ipynb`](./mission.ipynb) | Final notebook - fully executed, all outputs visible |
+| [`requirements.txt`](./requirements.txt) | Python dependencies |
+| [`slides.pdf`](./slides.pdf) | Presentation slides |
 
 > **Data:** The dataset is downloaded automatically inside the notebook via `kagglehub`. No manual download needed.
 
@@ -28,7 +27,7 @@ Does the type of contract a telecom customer holds (month-to-month vs. longer-te
 ## Methods
 
 | Block | Method |
-|-------|--------|-----------|
+|-------|--------|
 | Causal Inference | DoWhy backdoor adjustment | 
 | Supervised Learning | Logistic Regression + Random Forest | 
 | Unsupervised Learning | K-Means |
