@@ -1,9 +1,5 @@
 # Predicting and Explaining Customer Churn in Telecommunications
 
-**DAI Mission - Data & AI in Economics | TU Dortmund | Summer 2026**
-
-Leila Rahimiyadkuri · Forough Asgari · Sara Davoodabadi
-
 ---
 
 ## Research Question
